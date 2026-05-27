@@ -1,11 +1,11 @@
 # Java QA Tests
 
-Functional tests for a calculator app, written while learning Java and Selenium as part of an interview prep roadmap.
+Functional tests for a calculator app, written while learning Java, Selenium, and JUnit as part of an interview prep roadmap.
 
 ## What it covers
 
 - Calculator functionality tests
-- Written in Java using Selenium
+- Written in Java using Selenium and JUnit
 
 ## Context
 
